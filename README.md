@@ -27,3 +27,11 @@ A repo where my friend and I recommend one song to each other each day.
 
   - Malibu by Miley Cyrus
   - You won't believe it's her, but here she is. What can I say other than LOVE does change people.
+
+- 20180827
+
+  - I'm Beginning To See the Light from Manchester By the Sea (Original Soundtrack Album)
+  - My personal favorite 2016 movie. It'a portrait of individual misery, of whom can't help but find shards of hummor wherever he looks.
+    > “What happened to your hand?” Patrick asks Lee, noticing bandages and blood. </br>
+    > “I cut it.” </br>
+    > “Oh, thanks. For a minute there I didn’t know what happened.”
