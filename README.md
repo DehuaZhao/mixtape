@@ -22,3 +22,8 @@ A repo where my friend and I recommend one song to each other each day.
   - 苦瓜 by 陈奕迅
   - Life is all about learning and growing up.
   - Fun fact: My boyfriend recommended this song to me, and apparently he has a really good taste in Cantonese songs.
+  
+- 20170825
+
+  - Malibu by Miley Cyrus
+  - You won't believe it's her, but here she is. What can I say other than LOVE does change people.
