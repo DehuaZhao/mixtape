@@ -4,9 +4,9 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Commit Format
 
-- YYYYMMDD using our local date
+- YYYYMMDD using our local date, latest top
 
-  - songName by who OR songName from whichAlbum
+  - __songName__ by who OR __songName__ from whichAlbum
   - any comments
   - ...
 
