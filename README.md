@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170827
+
+  - __All of Me (Live)__ from iTunes Festival: London 2013 by John Legend
+  - A live unplugged version.
+
 - 20170826
 
   - __Beauty and the Beast__ from the movie Beauty and the Beast by Ariana Grande & John Legend
