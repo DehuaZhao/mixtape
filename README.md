@@ -14,6 +14,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 - 20170827
 
+  - __F**kin' Perfect__ by P!nk
+  - From time to time, I need to listen to this song, cry badly, and then feel much more put together.
+
+- 20170827
+
   - __All of Me (Live)__ from iTunes Festival: London 2013 by John Legend
   - A live unplugged version.
 
