@@ -12,21 +12,10 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
-- 20170825
+- 20170826
 
-  - Jai Ho from Slumdog Millionaire(Music from the Motion Picture)
-  - My afterwork must-have on the subway
-
-- 20170824
-  
-  - 苦瓜 by 陈奕迅
-  - Life is all about learning and growing up.
-  - Fun fact: My boyfriend recommended this song to me, and apparently he has a really good taste in Cantonese songs.
-  
-- 20170825
-
-  - Malibu by Miley Cyrus
-  - You won't believe it's her, but here she is. What can I say other than LOVE does change people.
+  - Beauty and the Beast from the movie Beauty and the Beast by Ariana Grande & John Legend
+  - My favorite fairy tale hands down. Even though it's overly old and classic, the story is surprisingly short without the songs, and tons of things are super unreasonable, I still, and always, sing with all my heart along with the melody.
 
 - 20170827
 
@@ -35,8 +24,19 @@ A repo where my friend and I recommend one song to each other each day.
     > “What happened to your hand?” Patrick asks Lee, noticing bandages and blood. </br>
     > “I cut it.” </br>
     > “Oh, thanks. For a minute there I didn’t know what happened.”
-    
-- 20170826
 
-  - Beauty and the Beast from the movie Beauty and the Beast by Ariana Grande & John Legend
-  - My favorite fairy tale hands down. Even though it's overly old and classic, the story is surprisingly short without the songs, and tons of things are super unreasonable, I still, and always, sing with all my heart along with the melody.
+- 20170825
+
+  - Malibu by Miley Cyrus
+  - You won't believe it's her, but here she is. What can I say other than LOVE does change people.
+
+- 20170824
+
+  - 苦瓜 by 陈奕迅
+  - Life is all about learning and growing up.
+  - Fun fact: My boyfriend recommended this song to me, and apparently he has a really good taste in Cantonese songs.
+
+- 20170825
+
+  - Jai Ho from Slumdog Millionaire (Music from the Motion Picture)
+  - My afterwork must-have on the subway
