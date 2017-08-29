@@ -12,8 +12,13 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170829
+
+  - __If the Hudson Overflows__ by Goldspot
+  - One of so many great songs about New York City.
+
 - 20170828
-  
+
   - __Seasons of Love__ from Glee or Rent(musical)
   - How do you measure a year in the life? How do you measure the life of a woman or a man?
 
