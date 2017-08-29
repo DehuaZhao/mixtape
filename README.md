@@ -15,7 +15,7 @@ A repo where my friend and I recommend one song to each other each day.
 - 20170829
 
   - __时间有泪__
-  - My personal preference for the versions: 陈颖恩(中国新歌声2) > 张碧晨(歌手) >= 张学友(live) > 张学友(album)
+  - My personal preference for the versions: 陈颖恩(中国新歌声2) > 张学友(live) >= 张碧晨(歌手) > 张学友(album)
   - 陈颖恩只缺年纪 张碧晨我觉得有点为了凸显她个人声音的特色唱的很拖沓 歌神的专辑原版做的不好 歌神自己的声音被背景盖过去了 live的就好一些
 
 - 20170829
