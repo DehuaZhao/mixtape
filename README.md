@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170830
+
+  - __M01 謡I - Making of Cyborg__ by 川井憲次 from 攻殻機動隊 O.S.T
+  - Hauntingly-beautiful Japanese chant.
+
 - 20170829
 
   - __时间有泪__
