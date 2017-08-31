@@ -12,6 +12,12 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170831
+
+  - __Lovers In Japan (Acoustic Version)__ by Coldplay
+  - The lyrics is like poem. The acoustic guitar is smoothing.
+  - I got lost with it. I got lost in the neon of Osaka.
+
 - 20170830
 
   - __M01 謡I - Making of Cyborg__ by 川井憲次 from 攻殻機動隊 O.S.T
