@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170901
+
+  - __求神__ from 唐伯虎点秋香
+  - 片尾曲, 一首快乐的歌
+
 - 20170831
 
   - __Lovers In Japan (Acoustic Version)__ by Coldplay
