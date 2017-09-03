@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170903
+
+  - __Shake It Out__ by Florence + The Machine
+  - Gives you the power in dark.
+
 - 20170901
 
   - __求神__ from 唐伯虎点秋香
