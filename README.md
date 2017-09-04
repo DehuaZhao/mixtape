@@ -12,6 +12,10 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170904
+  - __The Funeral__ by Band of Horses
+  - Where heart breaks.
+
 - 20170903
 
   - __Shake It Out__ by Florence + The Machine
@@ -68,8 +72,8 @@ A repo where my friend and I recommend one song to each other each day.
 
   - __I'm Beginning To See the Light__ from Manchester By the Sea (Original Soundtrack Album)
   - My personal favorite 2016 movie. It'a portrait of individual misery, of whom can't help but find shards of hummor wherever he looks.
-    > “What happened to your hand?” Patrick asks Lee, noticing bandages and blood. </br>
-    > “I cut it.” </br>
+    > “What happened to your hand?” Patrick asks Lee, noticing bandages and blood.<br>
+    > “I cut it.”<br>
     > “Oh, thanks. For a minute there I didn’t know what happened.”
 
 - 20170825
