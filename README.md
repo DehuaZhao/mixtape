@@ -13,6 +13,12 @@ A repo where my friend and I recommend one song to each other each day.
 ## Let's Mix
 
 - 20170904
+
+  - __有没有__ by 韦礼安
+  - 夜深人静时候的自作多情
+  - Fun fact: 这首歌刚出来的时候一度单曲循环 后来好久没听过了 直到我哥有一天弹唱这首歌 才发现我们俩对歌的喜好惊人的相似 论血缘关系的强大
+  
+- 20170904
   - __The Funeral__ by Band of Horses
   - Where heart breaks.
 
