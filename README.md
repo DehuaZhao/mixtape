@@ -12,6 +12,12 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170905
+
+  - __What the World Needs Now Is Love__ by Jackie DeShannon
+  - "What the world needs now is love, sweet love... No not just for some but for everyone..."
+  
+
 - 20170904
 
   - __有没有__ by 韦礼安
