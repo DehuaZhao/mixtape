@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170906
+
+  - __They Long To Be Close To You__ by Carpenters
+  - A sweet summer breeze
+
 - 20170905
 
   - __What the World Needs Now Is Love__ by Jackie DeShannon
