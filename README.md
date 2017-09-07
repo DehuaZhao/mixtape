@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170907
+
+  - __Mmm Mmm Mmm Mmm__ by Crash Test Dummie.
+  - Once there was this kid who...
+
 - 20170906
 
   - __They Long To Be Close To You__ by Carpenters
@@ -21,14 +26,14 @@ A repo where my friend and I recommend one song to each other each day.
 
   - __What the World Needs Now Is Love__ by Jackie DeShannon
   - "What the world needs now is love, sweet love... No not just for some but for everyone..."
-  
+
 
 - 20170904
 
   - __有没有__ by 韦礼安
   - 夜深人静时候的自作多情
   - Fun fact: 这首歌刚出来的时候一度单曲循环 后来好久没听过了 直到我哥有一天弹唱这首歌 才发现我们俩对歌的喜好惊人的相似 论血缘关系的强大
-  
+
 - 20170904
   - __The Funeral__ by Band of Horses
   - Where heart breaks.
