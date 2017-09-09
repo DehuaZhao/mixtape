@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170909
+
+  - __Impressions of Chinese Opera(I. Chang he Zuo & III. Da)__ by Gene Koshinski
+  - GENIUS!!! I.唱和做听起来就是一幅水墨画 至于III.打 答应我一定看视频好么！
+
 - 20170908
 
   - __Falling Slowly__ from Once
