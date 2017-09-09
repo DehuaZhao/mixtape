@@ -12,6 +12,12 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170908
+
+  - __Falling Slowly__ from Once
+  - A beatiful song from a beautiful movie/musical
+  - 想起这首歌和这部电影(还有对应的音乐剧)是今天的中国新歌声 小川小虎唱的version超美但是得票率7/51 开播这么久头一次关注得票率就这样...
+
 - 20170907
 
   - __In the Air Tonight__ by Phil Collins
