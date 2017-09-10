@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170910
+
+  - __I Know Where I've Been__ by Queen Latifah from Hairspray
+  - To all the people who are still fighting for their rights
+
 - 20170909
 
   - __Impressions of Chinese Opera(I. Chang he Zuo & III. Da)__ by Gene Koshinski
