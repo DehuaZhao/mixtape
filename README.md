@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170912
+
+  - __The Cure__ by lady Gaga
+  - 有一天下班网络不通, 只有这一首有缓存, 然后单曲循环了十好几遍...
+
 - 20170911
 
   - __Words I Couldn't Say__ by Leighton Meester
