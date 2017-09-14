@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170913
+
+  - __Million Reasons__ by Lady Gaga
+  - Her performance at Super Bowl was absolutely stunning. 
+
 - 20170912
 
   - __The Cure__ by lady Gaga
