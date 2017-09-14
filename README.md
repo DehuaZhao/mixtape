@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170914
+
+  - __Same Love__ by Macklemore & Ryan Lewis
+  - We share the same world. We share the same love.
+
 - 20170913
 
   - __Million Reasons__ by Lady Gaga
