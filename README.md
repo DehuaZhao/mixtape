@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170915
+
+    - __Summertime Sadness__ by Lana Del Rey
+    - 这首歌的感觉像Big Little Lies里海边的风格
+
 - 20170914
 
   - __Same Love__ by Macklemore & Ryan Lewis
@@ -20,7 +25,7 @@ A repo where my friend and I recommend one song to each other each day.
 - 20170913
 
   - __Million Reasons__ by Lady Gaga
-  - Her performance at Super Bowl was absolutely stunning. 
+  - Her performance at Super Bowl was absolutely stunning.
 
 - 20170912
 
@@ -67,7 +72,6 @@ A repo where my friend and I recommend one song to each other each day.
 
   - __What the World Needs Now Is Love__ by Jackie DeShannon
   - "What the world needs now is love, sweet love... No not just for some but for everyone..."
-
 
 - 20170904
 
