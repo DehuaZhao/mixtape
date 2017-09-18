@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170917
+
+  - __Losers Like Me__ from Glee
+  - My favorite song from Glee
+
 - 20170916
   - __很想很想说再见__ by 侧田
   - 听他的歌总觉得他有点用力过猛 但是又有一种字字戳心的感觉
