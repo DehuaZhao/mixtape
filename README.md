@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170918
+
+  - __凡人歌__ from 中国有嘻哈
+  - 作为一个基本不听Hip-pop的人 这首歌可以算是很惊艳了
+
 - 20170917
 
   - __Losers Like Me__ from Glee
