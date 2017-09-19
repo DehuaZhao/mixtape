@@ -14,7 +14,7 @@ A repo where my friend and I recommend one song to each other each day.
 
 - 20170919
 
-  - __La Campanella (Etude No. 3 in G-sharp minor of Grandes Etudes de Paganini)__ by Franz Liszt
+  - __La Campanella (Etude No. 3 in G-sharp minor of Grandes Etudes de Paganini)__ by Franz Liszt
   - My favortie piece of classical music. (My favorite version is of course marimba duet haha)
 
 - 20170918
