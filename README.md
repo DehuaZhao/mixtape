@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170920
+
+  - __Don't Stop Believin'__ by Journey
+  - It's just PERFECT.
+
 - 20170919
 
   - __La Campanella (Etude No. 3 in G-sharp minor of Grandes Etudes de Paganini)__ by Franz Liszt
