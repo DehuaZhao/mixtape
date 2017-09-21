@@ -14,6 +14,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 - 20170921
 
+  - __Hooked on a Feeling__ by Blue Swede
+  - Super easy and relaxing
+
+- 20170921
+
   - __Don't Go Breaking My Heart__ from Glee
   - 今天听How I Met Your Mother的时候听到里面的角色在唱
 
