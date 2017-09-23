@@ -12,7 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+
 - 20170921
+
+  - __Horace and Pete__ by Paul Simon
+  - Another show theme song.
 
   - __Hooked on a Feeling__ by Blue Swede
   - Super easy and relaxing
