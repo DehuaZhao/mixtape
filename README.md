@@ -12,6 +12,10 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170923
+
+  - __我可以忘记你__ by 黎明
+  - 在一段感情里 究竟是爱的是对方 还是那个深情执着为对方付出的自己
 
 - 20170921
 
