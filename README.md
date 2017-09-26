@@ -15,7 +15,7 @@ A repo where my friend and I recommend one song to each other each day.
 - 20170926
 
   - __Back In The 90's__ from BoJack Horseman
-  - 一首让我一听就陷入对世界的悲伤的片尾曲。
+  - 一首让我一听就陷入对世界的悲伤的片尾曲
 
 - 20170925
 
