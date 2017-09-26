@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170925
+
+  - __你的微笑__ by 那英
+  - 上一段感情里每逢听到这首歌必然哭的痛哭流涕 远距离还缺乏沟通带来的疏离感曾经把我击垮 认识到他不是我的良人后再听 只能默默感叹那些不值得的眼泪
+
 - 20170923
 
   - __我可以忘记你__ by 黎明
