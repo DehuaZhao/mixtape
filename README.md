@@ -12,6 +12,12 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170928
+
+  - __Total Eclipse of the Heart__ by Westlife
+  - 小时候喜欢的一首歌, 今天偶然听到, 还是超级心动.
+
+
 - 20170926
 
   - __Back In The 90's__ from BoJack Horseman
@@ -31,8 +37,8 @@ A repo where my friend and I recommend one song to each other each day.
 
   - __Horace and Pete__ by Paul Simon
   - Another show theme song.
- 
- - 20170921
+
+- 20170921
 
   - __Hooked on a Feeling__ by Blue Swede
   - Super easy and relaxing
