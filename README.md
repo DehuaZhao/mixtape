@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20170930
+
+  - __飘向北方 Stranger in the North__ by 黄明志 feat. 王力宏
+  - I don't share the same experience, but I share the same feeling of homesickness.
+
 - 20170928
 
   - __Total Eclipse of the Heart__ by Westlife
