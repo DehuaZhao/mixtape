@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171001
+
+  - __Unaccompanied Cello Suite No. 1 in G Major, BWV 1007__ composed by Bach
+  - Worth It 每到去super fancy的餐厅的时候都会放这首的开头 New York Apartment那一集的时候最后结尾能看到学校 超开心
+
 - 20170930
 
   - __飘向北方 Stranger in the North__ by 黄明志 feat. 王力宏
