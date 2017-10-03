@@ -12,6 +12,12 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171002
+
+  - __魂__ by 苏见信
+  - 第一次听的时候就爱上 到现在依然是one of my top favorites
+  - Fun fact: 前两天再听的时候发现是李荣浩写的曲 然后发现很多我很喜欢的歌都是他作曲 路人粉莫名有点儿欣慰是怎么回事儿
+
 - 20171001
 
   - __Unaccompanied Cello Suite No. 1 in G Major, BWV 1007__ composed by Bach
