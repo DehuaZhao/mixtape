@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171005
+
+  - __Sorry Not Sorry__ by Demi Lovato
+  - Oops.
+
 - 20171002
 
   - __魂__ by 苏见信
