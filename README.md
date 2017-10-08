@@ -12,6 +12,12 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171008
+
+  - __Vincent__ by Don McLean
+  - "This world was never meant for one as beautiful as you.."
+  - I once visited Van Gogh Museum in Amsterdam and took a chance to see how extraordinary he was. He was one of a kind, and he still is.
+
 - 20171005
 
   - __Sorry Not Sorry__ by Demi Lovato
