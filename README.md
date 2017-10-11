@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+-20171011
+
+  - __Sea of Dreams__ by Oberhofer
+  - 一场哑剧的结束.
+
 - 20171008
 
   - __Vincent__ by Don McLean
