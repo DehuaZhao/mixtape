@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171016
+
+  - __Too Good at Goodbyes__ by Sam Smith
+  - When a song has lyrics that make me feel so connected
+
 - 20171015
   
   - __Closer__ by The Chainsmokers
