@@ -12,7 +12,12 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
--20171011
+- 20171015
+  
+  - __Closer__ by The Chainsmokers
+  - 我手机音乐列表里的第一首歌 车子一连上手机就放这首 虾米系统抽了自动断开的时候也是这首 基本上开车的话一天也就听个十几遍吧
+
+- 20171011
 
   - __Sea of Dreams__ by Oberhofer
   - 一场哑剧的结束.
