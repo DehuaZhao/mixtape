@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171019
+
+  - __Rhapsody in Blue__ by Leonard Bernstein and Columbia Symphony Orchestra
+  - Ear-catching. Feels like a piece that could have been used in Tom & Jerry BGM.
+
 - 20171016
 
   - __Too Good at Goodbyes__ by Sam Smith
