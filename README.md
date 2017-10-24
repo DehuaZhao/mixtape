@@ -12,6 +12,12 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171024
+
+  - __Do You Hear the People Sing__ from Les Miserables
+  - My favorite piece from the musical.
+  - I just watched a life version that is sung by 17 Valijeans from the around the world. Fascinating!
+
 - 20171019
 
   - __Rhapsody in Blue__ by Leonard Bernstein and Columbia Symphony Orchestra
