@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171026
+
+  - __Me Too__ Meghan Trainor
+  - Super positive and cute
+
 - 20171024
 
   - __Do You Hear the People Sing__ from Les Miserables
