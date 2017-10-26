@@ -14,7 +14,7 @@ A repo where my friend and I recommend one song to each other each day.
 
 - 20171026
 
-  - __Me Too__ Meghan Trainor
+  - __Me Too__ by Meghan Trainor
   - Super positive and cute
 
 - 20171024
