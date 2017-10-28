@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171027
+
+  - __追光者__ from 夏至未至
+  - 一个因为小白的颜值快进着追完了的偶像剧 这首歌快进这的时候总被我跳过去 单拿出来听才发现原来很好听啊
+
 - 20171026
 
   - __Me Too__ by Meghan Trainor
