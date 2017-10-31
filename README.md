@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171031
+
+  - __Clair de Lune__ by Debussy
+  - Soft and beautiful. Perfect bgm for reading. Mentioned in the novel I'm reading, "All the Light We Cannot See".
+
 - 20171030
 
   - __回不去的旅人__ by 棉花糖
