@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171110
+
+  - __Believer__ by Imagine Dragon
+  - When I have to figure out a way to turn my pain into strength
+
 - 20171031
 
   - __Clair de Lune__ by Debussy
