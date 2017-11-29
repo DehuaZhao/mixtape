@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171128
+
+  - __When We Were Young__ by Adele
+  - My favorite piece so far. It really reminds me a lot about us, all of us. How we laughed with all joy and despised getting restless due to all kinds of pressure. We were so alive. However, how many of us realized that would be the last time we could be physically together when taking that picture, and how many of us grew up in a way we hated so much. We all change, and that's kind of sad.
+
 - 20171110
 
   - __Believer__ by Imagine Dragon
