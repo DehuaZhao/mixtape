@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20171211
+
+  - __追梦赤子心__ by GALA
+  - 很喜欢这种近乎嘶吼的 对梦想的追逐和坚持
+
 - 20171128
 
   - __When We Were Young__ by Adele
