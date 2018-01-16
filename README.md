@@ -12,6 +12,11 @@ A repo where my friend and I recommend one song to each other each day.
 
 ## Let's Mix
 
+- 20180116
+
+  - __小半__ by 陈粒
+  - GAI歌手第三场的歌单投票 一首首听下来觉得这首歌好好听！
+ 
 - 20171211
 
   - __追梦赤子心__ by GALA
